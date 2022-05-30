@@ -20,5 +20,5 @@
    <a href="https://www.linkedin.com/in/mateus-henrique-b4bbba23b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:MateusHAS.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-    ![Snake animation](https://github.com/rafaballerini/Mateus2611/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/Mateus2611/Mateus2611/blob/output/github-contribution-grid-snake.svg)
 </div>
