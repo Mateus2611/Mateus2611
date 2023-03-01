@@ -1,9 +1,16 @@
-## Eae! Me chamo Mateus Henrique 
+## 🎵:Eae! Me chamo Mateus Henrique 
 <div align="center">
   <a href="https://github.com/Mateus2611">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus2611&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus2611&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus2611&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus2611&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+  
+## 🎶:Ferramentas e Tecnologias
+  <div align="center">
+    <img src="https://img.shields.io/badge/AWS-62107A?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/AZURE-D96CFB?style=for-the-badge&logo=microsoftazure&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/MYSQL-C720FA?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+  </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
