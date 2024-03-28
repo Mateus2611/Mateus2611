@@ -1,11 +1,5 @@
 ## 🌚: Bem vindo ao meu repositório!
 <img src="https://github.com/Mateus2611/Mateus2611/blob/fc20f5366923ce2197be0564ab5d88e8aae3ecda/MATEUS%20HENRIQUE.gif" target="_blank"></a><br>
-## 🗄️: Minhas Estatísticas 
-<div align="center">
-  <a href="https://github.com/Mateus2611">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus2611&show_icons=true&include_all_commits=true&count_private=true&theme=jolly"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus2611&layout=compact&langs_count=7&theme=jolly"/>
-</div>
   
 ## 📓: Ferramentas e Tecnologias
   <div align="center">
