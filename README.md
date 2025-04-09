@@ -1,28 +1,19 @@
-## 🌚: Bem vindo ao meu repositório!
-<img src="https://github.com/Mateus2611/Mateus2611/blob/fc20f5366923ce2197be0564ab5d88e8aae3ecda/MATEUS%20HENRIQUE.gif" target="_blank"></a><br>
-  
 ## 📓: Ferramentas e Tecnologias
   <div align="center">
     <img src="https://img.shields.io/badge/AWS-62107A?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
     <img src="https://img.shields.io/badge/AZURE-D96CFB?style=for-the-badge&logo=microsoftazure&logoColor=white" target="_blank"></a>
-    <img src="https://img.shields.io/badge/MYSQL-C720FA?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
     <img src="https://img.shields.io/badge/C%23-6A357A?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/asp.net core-6A357A?style=for-the-badge&logo=asp.net_core&logoColor=white" target="_blank"></a>
     <img src="https://img.shields.io/badge/JavaScript-9E19C7?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>
-    <img src="https://img.shields.io/badge/php-62107A?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
     <img src="https://img.shields.io/badge/python-D96CFB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
-    <img src="https://img.shields.io/badge/css3-C720FA?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
-    <img src="https://img.shields.io/badge/html5-6A357A?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-    <img src="https://img.shields.io/badge/React Native-9E19C7?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
-    <img src="https://img.shields.io/badge/React-62107A?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
-    <img src="https://img.shields.io/badge/React Router-D96CFB?style=for-the-badge&logo=react-router&logoColor=white" target="_blank"></a>
-    <img src="https://img.shields.io/badge/EXPO-C720FA?style=for-the-badge&logo=expo&logoColor=white" target="_blank"></a>
-    <img src="https://img.shields.io/badge/Figma-6A357A?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
-    <img src="https://img.shields.io/badge/Trello-9E19C7?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
-    <img src="https://img.shields.io/badge/NPM-62107A?style=for-the-badge&logo=npm&logoColor=white" target="_blank"></a>
-    <img src="https://img.shields.io/badge/Yarn-D96CFB?style=for-the-badge&logo=yarn&logoColor=white" target="_blank"></a>
-    <img src="https://img.shields.io/badge/Bootstrap-C720FA?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/flask-D96CFB?style=for-the-badge&logo=flask&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/pandas-D96CFB?style=for-the-badge&logo=pandas&logoColor=white" target="_blank"></a>
     <img src="https://img.shields.io/badge/Node JS-6A357A?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
-    <img src="https://img.shields.io/badge/Maria DB-6A357A?style=for-the-badge&logo=MariaDB&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/MYSQL-C720FA?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/MariaDB-6A357A?style=for-the-badge&logo=MariaDB&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/PostgreSQL-6A357A?style=for-the-badge&logo=PostgreSQL&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/SqlServer-6A357A?style=for-the-badge&logo=SqlServer&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/Docker-6A357A?style=for-the-badge&logo=Docker&logoColor=white" target="_blank"></a>
   </div>
   
   ##
