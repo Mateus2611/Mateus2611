@@ -21,6 +21,6 @@
   ##
  ## 📱: Redes Sociais
 <div align="center">
- <a href="https://www.linkedin.com/in/mateus-henrique-b4bbba23b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-C720FA?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/mateushenriqueas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-C720FA?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:MateusHAS.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-9E19C7?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
